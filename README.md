@@ -1,53 +1,62 @@
-<h1 align="center">Hey there! 👋 I'm Gauri ✨</h1>
+<div align="center">
 
-<h3 align="center">
-  💻 Aspiring Developer | 🌱 Learning Every Day
-</h3>
+# 🎀 Hey there! I'm Gauri 💗
 
-<p align="center">
-  Welcome to my GitHub profile! 💖
-  <br>
-  I'm exploring technology, building projects,
-  and turning ideas into reality.
-</p>
+### 🌸 Aspiring Developer | Python 🐍 | C & C++ 💻
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=500&lines=Welcome+to+my+little+corner!+%F0%9F%8C%B8;Python+%26+C%2B%2B+Learner+%F0%9F%90%8D;Learning+Something+New+Every+Day+%E2%9C%A8;Dream+Big+%26+Keep+Coding+%F0%9F%92%97" alt="Typing SVG" />
 
-## 🌸 About Me
+💗 ─────────────── ⋆⋅🌷⋅⋆ ─────────────── 💗
 
-- 🎓 I'm learning programming and software development.
-- 💻 I enjoy exploring new technologies.
-- 🌱 Currently improving my coding skills.
-- 🚀 My goal is to build creative and useful projects.
-- ✨ Fun fact: Every expert was once a beginner!
+</div>
 
----
+## 🎀 About Me
 
-## 🛠️ Technologies I'm Exploring
+- 🌸 Hi! I'm Gauri, an aspiring programmer.
+- 🐍 Currently learning Python.
+- 💻 Exploring C and C++.
+- 🌱 Improving my problem-solving skills.
+- ✨ I love learning new things and building projects.
+- 🎯 My goal is to become a better developer every day.
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+## 🩷 My Tech Stack
 
----
+<div align="center">
 
-## 📊 My GitHub Stats
+<img src="https://img.shields.io/badge/Python-FFE4F2?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+<img src="https://img.shields.io/badge/C-FFD6E7?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C" />
+<img src="https://img.shields.io/badge/C%2B%2B-FFC0CB?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++" />
+<img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaurishete2006-svg&show_icons=true&theme=radical)
+</div>
 
----
+## 🌷 Currently Working On
 
-## 🌐 Connect With Me
+- 🐍 Practicing Python programming.
+- 💻 Learning C and C++ fundamentals.
+- 🧩 Solving beginner coding problems.
+- 🌸 Building my first coding projects.
 
-- 💌 Email: Add your preferred contact email here.
+## 📊 My GitHub Journey
 
----
+<div align="center">
 
-<p align="center">
-  ✨ Thanks for visiting my profile! ✨
-  <br>
-  🌷 Keep learning, keep building, keep growing! 🌷
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=gaurishete2006-svg&show_icons=true&hide_border=true&bg_color=FFF0F5&title_color=FF69B4&icon_color=FF69B4&text_color=6B4668" alt="GitHub Stats" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurishete2006-svg&layout=compact&hide_border=true&bg_color=FFF0F5&title_color=FF69B4&text_color=6B4668" alt="Top Languages" />
+
+</div>
+
+## 💌 Let's Connect!
+
+<div align="center">
+
+🌸 Thanks for visiting my profile! 🌸
+
+**Keep learning • Keep growing • Keep coding**
+
+💗 Made with love, curiosity, and a little bit of pink! 🎀
+
+</div>
