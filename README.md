@@ -60,3 +60,25 @@
 💗 Made with love, curiosity, and a little bit of pink! 🎀
 
 </div>
+
+---
+
+## 🎀 My Coding Corner
+
+🐍 Python Projects
+- 🌸 My first Python program
+- 💗 Beginner coding exercises
+
+💻 C & C++ Projects
+- ✨ My first C program
+- 🌷 My first C++ program
+
+---
+
+<div align="center">
+
+🌸 Learning something new every day 🌸
+
+💗 Thanks for visiting my profile! 💗
+
+</div>
